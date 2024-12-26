@@ -35,6 +35,7 @@ public class LocatorsLesson {
         //locator: cssSelector (recommended when id is not available)
         //driver.findElement(By.cssSelector(".btn-tryit-free")).click();
        // Thread.sleep(2000);
+        // . dot class name #for ID
 
 
         //locator: xpath
