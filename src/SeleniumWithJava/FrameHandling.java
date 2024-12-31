@@ -41,7 +41,7 @@ public class FrameHandling {
 //        Thread.sleep(2000);
 //        driver.quit();
 
-        driver.switchTo().frame("Alert with OK & Cancel");
+       // driver.switchTo().frame("Alert with OK & Cancel");
         //driver.findElement(By.cssSelector("body > div.container.center > div > div > div > div.tabpane.pullleft > ul > li.active > a"));
        //Actions actions = new Actions(driver);
       // actions.moveToElement(driver.findElement(By.className("analystic"))).click();
