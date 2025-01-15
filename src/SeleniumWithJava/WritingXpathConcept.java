@@ -98,9 +98,9 @@ public class WritingXpathConcept {
         // Thread.sleep(2000);
         // driver.findElement(By.xpath("//a[@href='https://www.citi.com/banking/bank-accounts?intc=citihpmenu_overview_bank-accounts' and @class = 'main-links plusIcon blueCustomerBtns blueAccPadding ng-star-inserted']")).click();
 
-        driver.findElement(By.id())
-        Thread.sleep(2000);
-        driver.quit();
+//        driver.findElement(By.id())
+//        Thread.sleep(2000);
+//        driver.quit();
 
         //Rule 8: parent, child and siblings
         ////a[@class= 'cmp-primary-header__menu-link']//parent::li[@class='cmp-primary-header__menu-item ']
